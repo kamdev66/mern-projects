@@ -1,0 +1,51 @@
+/* src/Login.css */
+body {
+    background-color: #0d47a1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .login-box {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .tabs {
+    margin-bottom: 20px;
+  }
+  
+  .forgot-password {
+    display: block;
+    margin: 10px 0;
+    text-align: right;
+  }
+  
+  .signup-link {
+    margin-top: 20px;
+  }
+  
+  .MuiButton-root {
+    margin-top: 20px;
+  }
+  

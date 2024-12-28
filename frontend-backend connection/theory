@@ -1,0 +1,5 @@
+prerequisite:- reactjs nodejs ()
+npm init -y
+npm install express
+create server
+create basic json file
